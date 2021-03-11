@@ -1,6 +1,6 @@
 # Funny-Gustanty_I0320042_Andhika_Tugas2
 
-## daftar isi
+## Daftar isi
 
 ### 1. Exercise 2.1
 ### 2. Exercise 2.2
